@@ -9,5 +9,3 @@
 ### Tech Stack  
 - **Languages**: Python  
 - **Libraries and Tools**: Transformers, Librosa, SpeechBrain, PyTorch  
-
-You can find the fine-tuned Whisper model here : https://drive.google.com/drive/folders/109Yd1seLPJWusl8JtZCSL-tH6oPDASz9?usp=drive_link
